@@ -1,4 +1,4 @@
-<p><img class="aligncenter size-full wp-image-1650" src="https://langerman.co.za/wp-content/uploads/2021/11/Scrum.png" alt="Running projects and teams using Scrum" width="744" height="400" /></p>
+# Scrum
 
 If you want to get anything reasonably complex done Scrum is the way to go. Scrum is a neat way to combine process and team structure into a machine that can get things done. One of my favourite documents is the <a title="Scrum Guide (The Guide)" href="https://scrumguides.org/scrum-guide.html">Scrum Guide (The Guide)</a>. The last guide was only 14 pages and it explained everything you need to know about Scrum - no frivolous words, or page filling and being short and sweet. This chapter is woefully inadequate attempt to reflect that work.
 
